@@ -64,7 +64,7 @@ public class MyGdxGame extends ApplicationAdapter {
         fontbig.setColor(Color.WHITE);
 
         batch = new SpriteBatch();
-        img = new Texture("circle.png");
+//        img = new Texture("circle.png");
         W = Gdx.graphics.getWidth() / 100f;
         H = Gdx.graphics.getHeight() / 100f;
         dotX=(int)(Math.random()*(100*W-4f*bazel)+2f*bazel);
