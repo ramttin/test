@@ -20,10 +20,6 @@ public class MyGdxGame extends ApplicationAdapter {
 
 
 
-
-
-
-
 		img = new Texture("badlogic.jpg");
 	}
 
