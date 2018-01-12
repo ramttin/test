@@ -23,6 +23,7 @@ public class MyGdxGame extends ApplicationAdapter {
     Boolean fired;
 
 
+
     ShapeRenderer renderer;
 
 
