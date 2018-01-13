@@ -21,6 +21,7 @@ import static com.badlogic.gdx.Gdx.input;
 
 
 public class MyGdxGame extends ApplicationAdapter {
+
     SpriteBatch batch;
     Texture img;
     float W;
